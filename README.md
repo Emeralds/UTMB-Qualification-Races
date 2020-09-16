@@ -1,4 +1,5 @@
-# UTMB race info puller so you can take all the UTMB points races with their relevant info and put it into a easy to manipulate .csv
+# UTMB points race info puller
+- so you can take all the UTMB points races with their relevant info and put it into an easy to manipulate .csv
 
 I wanted to do this so I could plan out potential races in 2021 that are likely to be points races and build my calendar so that I can have enough points to do the CCC.
 
